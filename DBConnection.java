@@ -8,9 +8,6 @@ class DBConnection{
     //Jira 102
     public void m2(){
 
-// Jira 1011
-    public void stashCheck(){
-
     }
 
     //Checking the revert
