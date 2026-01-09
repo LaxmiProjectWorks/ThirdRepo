@@ -4,6 +4,9 @@ class DBConnection{
         System.out.println("If we want to discard the changes for the Staging Area file then we need to 
         perform unstage before git restore <filename>");
     }
+    
+    //Jira 102
+    public void m2(){
 
-
+    }
 }
