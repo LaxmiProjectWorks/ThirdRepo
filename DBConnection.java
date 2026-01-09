@@ -12,4 +12,9 @@ class DBConnection{
     public void stashCheck(){
 
     }
+
+    //Checking the revert
+    void m3(){
+        System.out.println("Reverting changes in Central repo");
+    }
 }
