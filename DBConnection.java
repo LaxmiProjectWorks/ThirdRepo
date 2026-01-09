@@ -5,6 +5,7 @@ class DBConnection{
         perform unstage before git restore <filename>");
 
 System.out.println("Edit 1");
+System.out.println("Edit 2");
     }
     
     //Jira 102
